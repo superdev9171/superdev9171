@@ -1,2 +1,2 @@
-.NET Core developer
+.NET/.NET Core developer
 
